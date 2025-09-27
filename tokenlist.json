@@ -1,0 +1,26 @@
+{
+  "name": "Synth sETH Token List",
+  "logoURI": "https://raw.githubusercontent.com/synthsethdev/synthseth/main/logo.png",
+  "timestamp": "2025-09-27T00:00:00+00:00",
+  "keywords": ["synth", "sETH", "ethereum"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xF119ADa773624761108A12bc20503B2195727061",
+      "name": "Synth sETH",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/synthsethdev/synthseth/main/logo.png",
+      "tags": ["utility"],
+      "extensions": {
+        "website": "https://synthseth.com",
+        "explorer": "https://etherscan.io/token/0xF119ADa773624761108A12bc20503B2195727061"
+      }
+    }
+  ]
+}
